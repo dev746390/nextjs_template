@@ -941,12 +941,6 @@ $ npm cache verify
 - Express 4.x.x
 
 
-## Changelog
-
-[releases](CHANGELOG.md)
-
-
-
 ## Licensing
 
 Licensed under the [MIT](https://opensource.org/licenses/MIT).
